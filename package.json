@@ -13,6 +13,18 @@
     "name": "Ângelo R.",
     "url": "https://github.com/angelorodem/rust-core-extensions"
   },
+  "keywords": [
+    "rust",
+    "extension-pack",
+    "vscode",
+    "tooling",
+    "debugging"
+  ],
+  "repository": {
+    "directory": ".",
+    "type": "git",
+    "url": "https://github.com/angelorodem/rust-core-extensions.git"
+  },
   "extensionPack": [ 
     "usernamehw.errorlens",
     "vadimcn.vscode-lldb",
