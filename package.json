@@ -1,8 +1,8 @@
 {
-  "name": "rust-dev-toolkit",
-  "displayName": "Rust Dev Toolkit",
+  "name": "core-rust-dev-toolkit",
+  "displayName": "Core Rust Dev Toolkit",
   "description": "Curated VS Code extensions for debugging, linting, and navigating Rust projects.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.105.0"
   },
@@ -20,6 +20,8 @@
     "tooling",
     "debugging"
   ],
+  "icon": "images/icon.png",
+  "publisher": "angelor",
   "repository": {
     "directory": ".",
     "type": "git",
