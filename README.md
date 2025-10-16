@@ -1,16 +1,25 @@
-# rust-core-extensions README
+# Rust Dev Toolkit
 
-## Working with Markdown
+Curated VS Code extensions for debugging, linting, and navigating Rust projects.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Included Extensions
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- `usernamehw.errorlens` – highlight diagnostics inline so errors never hide.
+- `vadimcn.vscode-lldb` – native LLDB debugging for Rust binaries.
+- `fill-labs.dependi` – analyze dependency graphs and crate usage.
+- `tamasfe.even-better-toml` – smart TOML editing for `Cargo.toml` files.
+- `christian-kohler.path-intellisense` – auto-complete file system paths in code.
+- `jscearcy.rust-doc-viewer` – browse std and crate docs inside VS Code.
+- `rust-lang.rust-analyzer` – language server for completions, hints, and refactors.
+- `redhat.vscode-yaml` – schema-aware editing for configuration files.
 
-## For more information
+## Getting Started
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Install the extension pack from the VS Code Marketplace or via `code --install-extension rust-dev-toolkit`.
+- Reload VS Code to activate the pack and enable the bundled extensions.
+- Open a Rust workspace and run `Rust Analyzer: Restart` if prompted to ensure tooling is ready.
 
-**Enjoy!**
+## Feedback
+
+- File issues or feature requests at https://github.com/angelorodem/rust-core-extensions.
+- Contributions welcome—share ideas for additional Rust tooling that boosts productivity.
