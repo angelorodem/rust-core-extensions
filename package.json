@@ -9,6 +9,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "author": {
+    "name": "Ângelo R.",
+    "url": "https://github.com/angelorodem/rust-core-extensions"
+  },
   "extensionPack": [ 
     "usernamehw.errorlens",
     "vadimcn.vscode-lldb",
