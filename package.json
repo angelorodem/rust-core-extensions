@@ -21,7 +21,7 @@
     "debugging"
   ],
   "icon": "images/icon.png",
-  "publisher": "angelor",
+  "publisher": "angelo-r",
   "repository": {
     "directory": ".",
     "type": "git",
@@ -32,9 +32,9 @@
     "vadimcn.vscode-lldb",
     "fill-labs.dependi",
     "tamasfe.even-better-toml",
-    "christian-kohler.path-intellisense",
     "JScearcy.rust-doc-viewer",
     "rust-lang.rust-analyzer",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "SeaQL.firedbg-rust"
   ]
 }
